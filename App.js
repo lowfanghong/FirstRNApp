@@ -43,26 +43,26 @@ const App: () => React$Node = () => {
               <Text>Welcome to C308 Web Frameworks </Text>
               <Text style={styles.sectionTitle}>Step One</Text>
               <Text style={styles.sectionDescription}>
-                Edit <Text style={styles.highlight}>App.js</Text> to change this
-                screen and then come back to.
+                Edit <Text style={styles.highlight}>App.js</Text> Hi,my name is
+                fang hong.
               </Text>
             </View>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>See Your Changes</Text>
+              <Text style={styles.sectionTitle}>See me</Text>
               <Text style={styles.sectionDescription}>
                 <ReloadInstructions />
               </Text>
             </View>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Debug</Text>
+              <Text style={styles.sectionTitle}>Debug me</Text>
               <Text style={styles.sectionDescription}>
-                <DebugInstructions />
+                hi
               </Text>
             </View>
             <View style={styles.sectionContainer}>
               <Text style={styles.sectionTitle}>Learn More</Text>
               <Text style={styles.sectionDescription}>
-                Read the docs to discover what to do next:
+                Read the docs to discover me.
               </Text>
             </View>
             <LearnMoreLinks />
